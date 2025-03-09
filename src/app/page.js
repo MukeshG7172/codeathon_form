@@ -232,7 +232,7 @@ export default function SlotsPage() {
     <div className="min-h-screen bg-gray-900 text-gray-100">
       <div className="container mx-auto p-4">
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-2xl font-bold text-white">Available Time Slots</h1>
+          <h1 className="text-2xl font-bold text-white">Available Forms</h1>
           <div className="flex items-center space-x-4">
             {!session ? (
               <button
